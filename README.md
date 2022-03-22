@@ -1,2 +1,2 @@
 # BinarySearch
-binary search algoritm.
+binary search algorithm.
